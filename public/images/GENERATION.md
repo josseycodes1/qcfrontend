@@ -1,0 +1,17 @@
+# Homepage imagery
+
+Generated with the built-in image generation tool for The Quiet Circle. All final PNG files are stored in this directory. City images are AI-generated illustrations of the locations, not documentary photographs. Event content is illustrative.
+
+## Prompts
+
+- `hero.png`: Editorial lifestyle photograph of a young Nigerian woman with long braids in a textured mauve cardigan on a cream sofa, holding a ceramic coffee mug, looking thoughtfully toward a window. Warm natural light, indoor plants, earthy cream and plum palette, real skin texture, calm welcoming mood. Landscape 3:2, woman on right half. No text, logos, borders or watermark.
+- `community.png`: Photorealistic editorial landscape photo, three young Nigerian adult friends, two men and one woman, having a relaxed conversation in a cozy plant-filled living room on cream sofa, warm window light, earthy muted mauve and brown palette, authentic skin texture, no text or logos. 3:2 landscape.
+- `lagos.png`: Photorealistic-natural. Landscape 3:2 website photograph. Lagos Nigeria skyline and Lekki Ikoyi cable stayed bridge over the lagoon at golden hour, architectural travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `abuja.png`: Photorealistic-natural. Landscape 3:2 website photograph. Abuja Nigeria city gate monument, landscaped foreground and warm hazy sunset, architectural travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `ibadan.png`: Photorealistic-natural. Landscape 3:2 website photograph. Ibadan Nigeria brown rooftops and green rolling hills, warm afternoon light, elevated travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `port-harcourt.png`: Photorealistic-natural. Landscape 3:2 website photograph. Port Harcourt Nigeria waterfront with city buildings and reflections at blue hour, travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `enugu.png`: Photorealistic-natural. Landscape 3:2 website photograph. Enugu Nigeria city rooftops among lush green hills, hazy afternoon, elevated travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `picnic.png`: Photorealistic-natural. Landscape 3:2 website photograph. A quiet picnic on a patterned blanket in a green park, woven basket, fruit and cushions, dappled sunlight, no people. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `book-club.png`: Photorealistic-natural. Landscape 3:2 website photograph. An open book next to a ceramic coffee cup and small leafy plant on a wooden table, warm window light, close editorial still life. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `game-night.png`: Photorealistic-natural. Landscape 3:2 website photograph. Four young adult Nigerian friends sitting around a board game in a cozy warmly lit living room at night, candid intimate gathering. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
+- `coworking.png`: Photorealistic-natural. Landscape 3:2 website photograph. Laptop with blank dark screen, notebook and ceramic coffee cup on wooden desk beside sunlit window, warm calm home office. Warm muted earthy color grading, realistic photography. No text, logos or overlays.

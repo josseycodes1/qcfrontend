@@ -1,0 +1,8 @@
+import Image from "next/image";
+import { FiArrowRight, FiFeather } from "react-icons/fi";
+export default function MissionSection() {
+  return <section id="about" className="relative mx-auto mt-24 grid max-w-[1440px] scroll-mt-8 items-center gap-12 px-6 md:mt-32 md:px-12 lg:grid-cols-[1.15fr_1fr] lg:gap-20">
+    <div className="relative pb-9 pr-8 sm:pr-16"><div className="relative h-[350px] overflow-hidden rounded-[45%_45%_18%_18%] sm:h-[430px]"><Image src="/images/community.png" alt="Three friends sharing a meaningful conversation in a comfortable living room" fill sizes="(max-width: 1023px) 100vw, 50vw" className="object-cover" /></div><div className="absolute bottom-0 right-0 flex h-44 w-44 rotate-6 flex-col items-center justify-center rounded-[45%_55%_48%_52%] bg-[#e8d3c9] px-5 text-[#976c6d] sm:h-52 sm:w-52"><FiFeather size={25} className="mb-2" /><p className="font-serif text-xl italic leading-snug sm:text-2xl">Good conversations.<br />Calmer spaces.<br />Real people.</p></div></div>
+    <div className="max-w-lg"><p className="text-[10px] font-semibold uppercase tracking-[2.5px] text-[#a27377]">Our mission</p><h2 className="mt-3 font-serif text-[38px] leading-[1.08] tracking-[-1px] sm:text-[48px]">A Social World Designed for Introverts.</h2><p className="mt-6 text-sm leading-7 text-[#65555f] sm:text-base">We’re building Nigeria’s home for introverts — a community where meaningful connections, personal growth and real opportunities happen without the pressure to be anything other than you.</p><a href="#join" className="mt-7 inline-flex items-center gap-4 rounded-full bg-[#eab59d] px-7 py-4 text-sm font-medium transition hover:bg-[#dfa28d]">Find your place here <FiArrowRight size={19} /></a></div>
+  </section>;
+}

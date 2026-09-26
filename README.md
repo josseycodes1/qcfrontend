@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Quiet Circle frontend
 
-## Getting Started
+A responsive Next.js homepage for a Nigerian introvert community.
 
-First, run the development server:
+## Development
 
-```bash
+```sh
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Checks
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm run lint
+npx tsc --noEmit
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Structure
 
-## Learn More
+- `app/page.tsx` composes imported homepage sections, following the BataX pattern.
+- `components/home/` contains navigation, hero, benefits, city discovery, events, mission, invitation, and footer components.
+- `components/home/data.ts` holds illustrative cities and events.
+- `public/images/` contains 11 generated images and `GENERATION.md` with their prompts.
+- Styling uses inline Tailwind utility classes; `app/globals.css` only imports Tailwind. Icons use React Icons.
 
-To learn more about Next.js, take a look at the following resources:
+City cards filter events. Event cards open native accessible dialogs. The mobile menu links to page sections. The invitation lets visitors select a city and clearly explains that signup is not open; it does not collect or submit personal data.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This folder owns the frontend Git repository. A future backend should be a sibling folder under `quiet-circle/` with its own Git repository. No backend, authentication, booking, or membership API is implemented.
