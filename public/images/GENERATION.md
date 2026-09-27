@@ -4,6 +4,8 @@ Generated with the built-in image generation tool for The Quiet Circle. All fina
 
 ## Prompts
 
+- `hero-v2.png`: Replacement hero generated with the built-in image generation tool. Photorealistic landscape 3:2 photograph of a young Nigerian woman with long black braids, a mauve knitted cardigan and cream trousers, reclining on a beige sofa with a ceramic mug held in both hands. Face turned left, looking slightly upward with a thoughtful smile. Head, torso, hands, lap and bent knees visible. Face near 48% image width and 30% image height, with quiet cream interior and plants on the right for separate UI overlays. Warm window light, natural skin texture, muted plum and cream palette. No text, UI, borders or watermarks. The original `hero.png` is retained; the homepage now uses this version.
+
 - `hero.png`: Editorial lifestyle photograph of a young Nigerian woman with long braids in a textured mauve cardigan on a cream sofa, holding a ceramic coffee mug, looking thoughtfully toward a window. Warm natural light, indoor plants, earthy cream and plum palette, real skin texture, calm welcoming mood. Landscape 3:2, woman on right half. No text, logos, borders or watermark.
 - `community.png`: Photorealistic editorial landscape photo, three young Nigerian adult friends, two men and one woman, having a relaxed conversation in a cozy plant-filled living room on cream sofa, warm window light, earthy muted mauve and brown palette, authentic skin texture, no text or logos. 3:2 landscape.
 - `lagos.png`: Photorealistic-natural. Landscape 3:2 website photograph. Lagos Nigeria skyline and Lekki Ikoyi cable stayed bridge over the lagoon at golden hour, architectural travel photograph. Warm muted earthy color grading, realistic photography. No text, logos or overlays.
